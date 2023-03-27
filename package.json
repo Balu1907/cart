@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Balu1907/cart"
+    "url": "git@github.com:Balu1907/cart.git"
   },
   "scripts": {
     "build": "rm -rf dist/ && webpack --config config/webpack.prod.js",
