@@ -1,5 +1,5 @@
 {
-  "name": "@mfe-patterns/cart",
+  "name": "@cart",
   "version": "1.0.1",
   "description": "",
   "main": "./dist/Cart.js",
